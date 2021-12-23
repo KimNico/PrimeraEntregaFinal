@@ -1,0 +1,26 @@
+[
+    {
+        "producto":"Lapiz",
+        "descripcion":"Lapiz negro",
+        "codigo":"Lap01",
+        "fotoUrl":"https://www.iconfinder.com/icons/2824443/pen_pencil_school_stationery_icon",
+        "precio":123,
+        "stock":11
+    },
+    {
+        "producto":"Cuaderno",
+        "descripcion":"Cuaderno rayado",
+        "codigo":"Cua02",
+        "fotoUrl":"https://www.iconfinder.com/icons/2824439/book_note_paper_school_icon",
+        "precio":532,
+        "stock":14
+    },
+    {
+        "producto":"Calculadora",
+        "descripcion":"Calculadora cientifica",
+        "codigo":"Cal03",
+        "fotoUrl":"https://www.iconfinder.com/icons/2824440/calculator_math_school_tool_icon",
+        "precio":213,
+        "stock":15
+    }
+]
